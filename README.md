@@ -65,7 +65,7 @@ uv sync
 Execute o programa:
 
 ```bash
-python 06_Controle_remoto.py
+python Controle_remoto.py
 ```
 
 ## Controles
@@ -84,7 +84,8 @@ python 06_Controle_remoto.py
 ```text
 controle-remoto-poo-python/
 ├── .gitignore
-├── 06_Controle_remoto.py
+├── Controle_remoto.py
+├── README.md
 ├── pyproject.toml
 └── uv.lock
 ```
